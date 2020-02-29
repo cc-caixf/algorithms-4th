@@ -1,0 +1,4 @@
+java -classpath ./algs4.jar;./stdlib.jar edu.princeton.cs.algs4.BinarySearch .\algs4-data\tinyW.txt < .\algs4-data\tinyT.txt
+
+在环境中设置
+JAVA_TOOL_OPTIONS -Dfile.encoding=UTF-8
